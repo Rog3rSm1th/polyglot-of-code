@@ -32,6 +32,6 @@ _Advent of Code_ is an Advent calendar of small programming puzzles for a variet
 | 20   |          		 |		  
 | 21   |          		 |  
 | 22   |          		 | 
-| 23   |          		 | 
+| 23   |Javascript       | 
 | 24   |Python      	 |  
 | 25   |Crystal          | 
