@@ -18,7 +18,7 @@ _Advent of Code_ is an Advent calendar of small programming puzzles for a variet
 | 6    | Julia           | 
 | 7    | Perl            | 
 | 8    |          		 |  
-| 9    |          		 | 
+| 9    | Nim      		 | 
 | 10   |          		 | 
 | 11   |          		 |  
 | 12   |          		 |
