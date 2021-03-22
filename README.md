@@ -19,7 +19,7 @@ _Advent of Code_ is an Advent calendar of small programming puzzles for a variet
 | 7    | Perl            | 
 | 8    |          		 |  
 | 9    | Nim      		 | 
-| 10   |          		 | 
+| 10   | PHP       		 | 
 | 11   |          		 |  
 | 12   |          		 |
 | 13   |          		 | 
