@@ -20,7 +20,7 @@ _Advent of Code_ is an Advent calendar of small programming puzzles for a variet
 | 8    |          		 |  
 | 9    | Nim      		 | 
 | 10   | PHP       		 | 
-| 11   |          		 |  
+| 11   | Kotlin     	 |  
 | 12   |          		 |
 | 13   |          		 | 
 | 14   |          		 |  
