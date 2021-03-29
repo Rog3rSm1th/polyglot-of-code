@@ -23,7 +23,7 @@ _Advent of Code_ is an Advent calendar of small programming puzzles for a variet
 | 11   | Kotlin     	 |  
 | 12   | Typescript      |
 | 13   | Scala           | 
-| 14   |          		 |  
+| 14   | Awk      		 |  
 | 15   |          		 | 
 | 16   |          		 | 
 | 17   |          		 |  
