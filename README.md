@@ -29,7 +29,7 @@ _Advent of Code_ is an Advent calendar of small programming puzzles for a variet
 | 17   |          		 |  
 | 18   |          		 | 
 | 19   |          		 | 
-| 20   |          		 |		  
+| 20   | C         		 |		  
 | 21   |          		 |  
 | 22   |          		 | 
 | 23   |Javascript       | 
