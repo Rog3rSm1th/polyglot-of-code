@@ -26,12 +26,12 @@ _Advent of Code_ is an Advent calendar of small programming puzzles for a variet
 | 14   | Awk      		 |  
 | 15   |          		 | 
 | 16   |          		 | 
-| 17   |          		 |  
+| 17   | F#        		 |  
 | 18   |          		 | 
 | 19   |          		 | 
 | 20   | C         		 |		  
 | 21   |          		 |  
 | 22   |          		 | 
-| 23   |Javascript       | 
-| 24   |Python      	 |  
-| 25   |Crystal          | 
+| 23   | Javascript      | 
+| 24   | Python      	 |  
+| 25   | Crystal         | 
