@@ -8,30 +8,31 @@ _Advent of Code_ is an Advent calendar of small programming puzzles for a variet
 
 ### 🎄 My solutions 🎄
 
-| Day  | Language        |  
-|------|-----------------|
-| 1    | Bash            | 
-| 2    | CoffeeScript    |  
-| 3    | Lua             | 
-| 4    | Ruby            | 
-| 5    | Haskell         |  
-| 6    | Julia           | 
-| 7    | Perl            | 
-| 8    | C#              |  
-| 9    | Nim      		 | 
-| 10   | PHP       		 | 
-| 11   | Kotlin     	 |  
-| 12   | Typescript      |
-| 13   | Scala           | 
-| 14   | Awk      		 |  
-| 15   | Java      		 | 
-| 16   | Moonscript   	 | 
-| 17   | F#        		 |  
-| 18   |          		 | 
-| 19   |          		 | 
-| 20   | C         		 |		  
-| 21   |          		 |  
-| 22   |          		 | 
-| 23   | Javascript      | 
-| 24   | Python      	 |  
-| 25   | Crystal         | 
+
+| Day  | Language        | Status       |
+|------|-----------------|--------------|
+| 1    | Bash            | Solved ⭐⭐  |
+| 2    | CoffeeScript    | Solved ⭐⭐  |
+| 3    | Lua             | Solved ⭐⭐  |
+| 4    | Ruby            | Solved ⭐⭐  |
+| 5    | Haskell         | Solved ⭐⭐  |
+| 6    | Julia           | Solved ⭐⭐  |
+| 7    | Perl            | Solved ⭐⭐  |
+| 8    | C#              | Solved ⭐⭐  |
+| 9    | Nim      		 | Solved ⭐⭐  |
+| 10   | PHP       		 | Solved ⭐⭐  |
+| 11   | Kotlin     	 | Solved ⭐⭐  |
+| 12   | Typescript      | Solved ⭐⭐  |
+| 13   | Scala           | Solved ⭐⭐  |
+| 14   | Awk      		 | Solved ⭐⭐  |
+| 15   | Java      		 | Solved ⭐⭐  |
+| 16   | Moonscript   	 | Solved ⭐⭐  |
+| 17   | F#        		 | Solved ⭐⭐  |
+| 18   |          		 |              |
+| 19   |          		 |              |
+| 20   | C         		 | Solved ⭐⭐  |
+| 21   |          		 |              |
+| 22   |          		 |              |
+| 23   | Javascript      | Solved ⭐⭐  | 
+| 24   | Python      	 | Solved ⭐⭐  | 
+| 25   | Crystal         | Solved ⭐⭐  |
