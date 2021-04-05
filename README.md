@@ -28,11 +28,11 @@ _Advent of Code_ is an Advent calendar of small programming puzzles for a variet
 | 15   | Java      		 | Solved ⭐⭐  |
 | 16   | Moonscript   	 | Solved ⭐⭐  |
 | 17   | F#        		 | Solved ⭐⭐  |
-| 18   |          		 |              |
-| 19   |          		 |              |
+| 18   | Golang          | Solved ⭐⭐  |
+| 19   |          		 | In Progress  |
 | 20   | C         		 | Solved ⭐⭐  |
-| 21   |          		 |              |
-| 22   |          		 |              |
+| 21   |          		 | In Progress  |
+| 22   |          		 | In Progress  |
 | 23   | Javascript      | Solved ⭐⭐  | 
 | 24   | Python      	 | Solved ⭐⭐  | 
 | 25   | Crystal         | Solved ⭐⭐  |
