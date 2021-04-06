@@ -1,0 +1,16 @@
+ReplaceAll[str_, pair_] := StringReplacePart[str, pair[[2]], #]&/@StringPosition[string, pair[[1]]]
+
+(* Import input *)
+INPUT = StringSplit[Import["input.txt"], "\n"];
+moleculesRules = Flatten[StringCases[INPUT[[1;;43]],a:WordCharacter..~~" => "~~ b:WordCharacter..->{a, b}],1];startstring=INPUT[[45]];
+
+Length[Union[ Flatten[ReplaceAll[beginString, #] & /@moleculesRules ]]]
+
+attempt = beginString; 
+Stop = 0;
+counter = 0;
+
+(* Solve the challenge *)
+Monitor[Module[{j},For[i=0,Stop==0,i++,j=Mod[i,43]+1;
+	If[attempt == "e", Stop=1; Print[counter],
+	If[StringMatchQ[attempt,___~~moleculesRules[[j,2]]~~___], attempt = StringReplace[attempt, moleculesRules[[j,2]]->rules[[j,1]],1]; counter++]]]], counter]

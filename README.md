@@ -29,7 +29,7 @@ _Advent of Code_ is an Advent calendar of small programming puzzles for a variet
 | 16   | Moonscript   	 | Solved ⭐⭐  |
 | 17   | F#        		 | Solved ⭐⭐  |
 | 18   | Golang          | Solved ⭐⭐  |
-| 19   |          		 | In Progress  |
+| 19   | Mathematica   	 | Solved ⭐⭐  |
 | 20   | C         		 | Solved ⭐⭐  |
 | 21   |          		 | In Progress  |
 | 22   |          		 | In Progress  |
