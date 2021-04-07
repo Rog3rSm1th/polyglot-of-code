@@ -31,7 +31,7 @@ _Advent of Code_ is an Advent calendar of small programming puzzles for a variet
 | 18   | Golang          | Solved ⭐⭐  |
 | 19   | Mathematica   	 | Solved ⭐⭐  |
 | 20   | C         		 | Solved ⭐⭐  |
-| 21   |          		 | In Progress  |
+| 21   | Q         		 | Solved ⭐⭐  |
 | 22   |          		 | In Progress  |
 | 23   | Javascript      | Solved ⭐⭐  | 
 | 24   | Python      	 | Solved ⭐⭐  | 
